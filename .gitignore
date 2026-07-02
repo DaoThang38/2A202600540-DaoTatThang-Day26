@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Databases
+local.db
+*.db
+*.sqlite3
+
+# NPM Cache (for MCP Inspector)
+.npm-cache/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
